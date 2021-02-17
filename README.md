@@ -17,12 +17,13 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-
+![output](./static/img/design.jpeg)
 
 ## WIREFRAME:
-
+![output](./static/img/wireframe.jpeg)
 
 ## PROTOTYPE:
-
+![output](./static/img/prototype.jpeg)
 
 ## RESULT:
+Thus, a user exprience design is created for a music website
